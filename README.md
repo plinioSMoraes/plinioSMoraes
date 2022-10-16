@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently looking for a job
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Jest**
 
 - 🌱 I’m currently learning Docker, MySQL
 
