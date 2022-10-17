@@ -16,6 +16,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=plinioSMoraes&show_icons=true&theme=tokyonight" alt="maykbrito's stats"/>
 </p>
 
+## :book: Portfolio
+<p> :fork_and_knife: <a href="https://trybe-recipe-app.surge.sh/">Recipe App</a> <p/>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
