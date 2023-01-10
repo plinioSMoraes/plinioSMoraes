@@ -51,8 +51,8 @@
 <a href="https://www.instagram.com/plinio_moraes/" target="_blank" title="Instagram">
  <img align="center" src="https://img.shields.io/badge/-Plinio_Moraes-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="psmoraes@inf.ufpel.edu.br" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Plinio_Moraes-05122A?style=flat&logo=gmail" alt="Gmail" title="Gmail"/>
+<a href="psmoraes@inf.ufpel.edu.br" target="_blank" title="Gmail">
+ <img align="center" src="https://img.shields.io/badge/-Plinio_Moraes-05122A?style=flat&logo=gmail" alt="Gmail" />
 </a>
 </p>
 <!--
