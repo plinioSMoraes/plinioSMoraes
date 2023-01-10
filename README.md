@@ -42,10 +42,10 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/plinioSMoraes" target="_blank">
+<a href="https://twitter.com/plinioSMoraes" target="_blank" title= "Twitter">
   <img align="center" src="https://img.shields.io/badge/-plinioSMoraes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/psmoraes/" target="_blank">
+<a href="https://www.linkedin.com/in/psmoraes/" target="_blank" >
   <img align="center" src="https://img.shields.io/badge/-psMoraes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/plinio_moraes/" target="_blank">
