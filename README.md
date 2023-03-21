@@ -19,7 +19,7 @@
 ## :book: Portfolio
 <p> :fork_and_knife: <a href="https://trybe-recipe-app.surge.sh/">Recipe App</a> </p>
 <p> :coin: <a href="https://desafiocess.surge.sh/">Currencies App</a> </p>
-<p> :planet: <a href="https://pliniosmoraes.github.io/SolarSystem/">Solar System</a> </p>
+<p> :ringed_planet: <a href="https://pliniosmoraes.github.io/SolarSystem/">Solar System</a> </p>
 
 ## 🛠 &nbsp;Tech Stack
 
