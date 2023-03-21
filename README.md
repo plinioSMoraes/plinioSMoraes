@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently looking for a job
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Jest**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Jest** / email: psmoraes@inf.ufpel.edu.br
 
 - 🌱 I’m currently learning Docker, MySQL
 
