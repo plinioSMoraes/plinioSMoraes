@@ -1,12 +1,9 @@
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/plinioSMoraes/e3d4458a03b9e08f89bfa9032bb9a1b3/raw/df3d8c2cd2cfdb88eb7c5bd2bf928a7e869d7399/myCard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Plinio Moraes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plinioSMoraes&color=blueviolet&style=flat" alt="Profile views" /> </p>
 
 - 🔥 I'm a student of web developing at Trybe 
 
 - 🔭 I'm currently looking for a job
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Jest** / email: psmoraes@inf.ufpel.edu.br
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Jest**
 
 - 🌱 I’m currently learning Docker, MySQL
 
