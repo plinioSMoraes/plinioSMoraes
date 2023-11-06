@@ -1,12 +1,11 @@
 
-- 🔥 I'm a student of web developing at Trybe 
-
 - 🔭 I'm currently looking for a job
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Jest**
 
 - 🌱 I’m currently learning Docker, MySQL
 
+- Currently enrolled in an internship, learning AWS
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
